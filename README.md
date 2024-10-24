@@ -1,6 +1,8 @@
 # Number Generator... Without Random Number Generator???
 
 This Rust program generates a number based on numbers that contains your computer's memory (address) instead of traditional random number generation techniques.
+## Usage example
+https://github.com/user-attachments/assets/f9f60533-d7a4-46dc-aaf0-49a724b6e8a4
 
 ## Features
 
